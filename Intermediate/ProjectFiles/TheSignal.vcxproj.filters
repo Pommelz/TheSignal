@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\TheSignal.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{438F6DFD-A382-4FFD-BFB6-6B8965DDA222}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\TheSignal.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\TheSignalEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{7689C079-C9EE-491E-B10F-D4CD2063586E}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\TheSignal">
+			<UniqueIdentifier>{10B07AAE-94FA-4B62-907D-FBEDFD7AD36D}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\TheSignal\TheSignal.Build.cs">
+			<Filter>Source\TheSignal</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\TheSignal\TheSignal.cpp">
+			<Filter>Source\TheSignal</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TheSignal\TheSignal.h">
+			<Filter>Source\TheSignal</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TheSignal\TheSignalCharacter.cpp">
+			<Filter>Source\TheSignal</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TheSignal\TheSignalCharacter.h">
+			<Filter>Source\TheSignal</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TheSignal\TheSignalGameMode.cpp">
+			<Filter>Source\TheSignal</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TheSignal\TheSignalGameMode.h">
+			<Filter>Source\TheSignal</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TheSignal\TheSignalHUD.cpp">
+			<Filter>Source\TheSignal</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TheSignal\TheSignalHUD.h">
+			<Filter>Source\TheSignal</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TheSignal\TheSignalProjectile.cpp">
+			<Filter>Source\TheSignal</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TheSignal\TheSignalProjectile.h">
+			<Filter>Source\TheSignal</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TheSignal-2351.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Pommelz\Documents\Unreal Projects\TheSignal-Master\The-Signal\Intermediate\Build\Win64\UE4Editor\Development\TheSignal\TheSignal.cpp.obj"
+"C:\Users\Pommelz\Documents\Unreal Projects\TheSignal-Master\The-Signal\Intermediate\Build\Win64\UE4Editor\Development\TheSignal\TheSignalCharacter.cpp.obj"
+"C:\Users\Pommelz\Documents\Unreal Projects\TheSignal-Master\The-Signal\Intermediate\Build\Win64\UE4Editor\Development\TheSignal\TheSignalGameMode.cpp.obj"
+"C:\Users\Pommelz\Documents\Unreal Projects\TheSignal-Master\The-Signal\Intermediate\Build\Win64\UE4Editor\Development\TheSignal\TheSignalHUD.cpp.obj"
+"C:\Users\Pommelz\Documents\Unreal Projects\TheSignal-Master\The-Signal\Intermediate\Build\Win64\UE4Editor\Development\TheSignal\TheSignalProjectile.cpp.obj"
+"C:\Users\Pommelz\Documents\Unreal Projects\TheSignal-Master\The-Signal\Intermediate\Build\Win64\UE4Editor\Development\TheSignal\TheSignal.init.gen.cpp.obj"
+"C:\Users\Pommelz\Documents\Unreal Projects\TheSignal-Master\The-Signal\Intermediate\Build\Win64\UE4Editor\Development\TheSignal\TheSignalCharacter.gen.cpp.obj"
+"C:\Users\Pommelz\Documents\Unreal Projects\TheSignal-Master\The-Signal\Intermediate\Build\Win64\UE4Editor\Development\TheSignal\TheSignalGameMode.gen.cpp.obj"
+"C:\Users\Pommelz\Documents\Unreal Projects\TheSignal-Master\The-Signal\Intermediate\Build\Win64\UE4Editor\Development\TheSignal\TheSignalHUD.gen.cpp.obj"
+"C:\Users\Pommelz\Documents\Unreal Projects\TheSignal-Master\The-Signal\Intermediate\Build\Win64\UE4Editor\Development\TheSignal\TheSignalProjectile.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\TheSignal\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Pommelz\Documents\Unreal Projects\TheSignal-Master\The-Signal\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TheSignal-2351.lib"

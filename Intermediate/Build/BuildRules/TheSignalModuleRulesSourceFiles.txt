@@ -1,0 +1,3 @@
+C:\Users\Pommelz\Documents\Unreal Projects\TheSignal-Master\The-Signal\Source\TheSignal\TheSignal.Build.cs
+C:\Users\Pommelz\Documents\Unreal Projects\TheSignal-Master\The-Signal\Source\TheSignal.Target.cs
+C:\Users\Pommelz\Documents\Unreal Projects\TheSignal-Master\The-Signal\Source\TheSignalEditor.Target.cs
